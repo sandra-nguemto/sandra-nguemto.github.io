@@ -347,3 +347,8 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/    

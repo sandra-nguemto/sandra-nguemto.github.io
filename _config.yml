@@ -268,15 +268,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-   # _blogposts
-   - scope:
-      path: ""
-      type: blogposts
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+   
           
 
 
@@ -357,6 +349,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  blogposts:
-    output: true
-    permalink: /:collection/:path/    
+  # blogposts:
+  #   output: true
+  #   permalink: /:collection/:path/    

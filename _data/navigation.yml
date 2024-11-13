@@ -38,12 +38,11 @@ main:
   - title: "Publications"
     url: /publications/  
     
- 
   - title: "Portfolio"
     url: /portfolio/
 
   - title: "Blogposts"
-  url: /blogposts/
+    url: /blogposts/
     
 #  - title: "Guide"
 #    url: /markdown/

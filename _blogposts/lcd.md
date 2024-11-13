@@ -12,4 +12,4 @@ gallery:
 ---
 
 
-[Understanding the Leading Causes of Death in the US](https://sandra-nguemto.github.io/blogposts/lcd.html)
+

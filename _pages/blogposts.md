@@ -10,4 +10,4 @@ header:
 ---
 
 
-A collection of my Data Science, Machine Learning and Quantum Computing projects..
+My thoughts and interests on topics related to: Data Science, [Quantum] Machine Learning and more.

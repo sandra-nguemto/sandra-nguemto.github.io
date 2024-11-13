@@ -1,5 +1,6 @@
 ---
-title: "[Understanding the Leading Causes of Death in the US](https://sandra-nguemto.github.io/blogposts/lcd.html)"
+title: "[Understanding the Leading Causes of Death in the US](https://external.ink?to=/https://sandra-nguemto.github.io/blogposts/lcd.html)"
+
 excerpt: "Tech: Pandas, Pyplot"
 header:
   image: assets/images/headerimg.png 

@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 2023-present: Postdoctoral Fellow
+* 2023-presente: Postdoctoral Fellow
   * Johns Hopkins University
   * Project: Defense Threat Reduction Agency
     

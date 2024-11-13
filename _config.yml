@@ -358,6 +358,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  # blogposts:
-  #   output: true
-  #   permalink: /:collection/:path/    
+  blogposts:
+    output: true
+    permalink: /:collection/:path/    
